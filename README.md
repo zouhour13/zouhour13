@@ -1,7 +1,8 @@
 # Hello, I'm Zouhour Bellamine, an AI & Software Engineer!  
 Welcome to my GitHub profile! 🎉  
 
-![Coder GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)  
+![Working Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
 ---
 
@@ -56,7 +57,6 @@ A machine learning project predicting olive oil demand using Gradient Boosting a
 ## 📬 Let's Connect!
 Feel free to reach out for collaborations or discussions!  
 
-[LinkedIn](https://www.linkedin.com/in/zouhour-bellamine/)  
 Email: zouhourbellamine13@gmail.com  
 Phone: +216 29563299  
 
