@@ -1,8 +1,7 @@
 # Hello, I'm Zouhour Bellamine, an AI & Software Engineer!  
 Welcome to my GitHub profile! 🎉  
 
-![Working Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
+![Cute Robot Coding](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
