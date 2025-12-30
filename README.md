@@ -39,8 +39,12 @@ This project focused on developing an **automatic defect detection system** for 
 
 **🌐 Warm AI – Full-Stack AI Platform**
 
-Développement d’une application Full-Stack AI permettant la recherche de profils LinkedIn, le chat conversationnel et l’analyse de documents en langage naturel.
-La plateforme intègre Google Gemini (chat, web search, RAG) et Exa AI (recherche personnes & entreprises), avec un backend FastAPI et un frontend React / Next.js.
+Development of a full-stack AI application enabling LinkedIn profile search, conversational chat, and natural language document analysis.
+The platform integrates Google Gemini (chat, web search, and RAG) and Exa AI (people and company search), with a FastAPI backend and a React / Next.js frontend.
+
+**🌐Text-to-SQL Platform for Data Analysts**
+A Text-to-SQL Streamlit application that enables natural language querying of a SQLite database using Groq’s Llama-3 large language model, providing fast and intuitive data access through an interactive UI.
+
 
 **🎵 Emotion Classification System**  
 A deep learning model for classifying emotions from audio files using CNN and LSTM.  
