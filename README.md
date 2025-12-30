@@ -37,7 +37,7 @@ This project focused on developing an **automatic defect detection system** for 
 - This solution demonstrates the effectiveness of AI technologies for improving **quality control in industry** and opens the door for future system evolution.
 
 
-**🌐 Warm AI – Full-Stack AI Platform
+**🌐 Warm AI – Full-Stack AI Platform**
 
 Développement d’une application Full-Stack AI permettant la recherche de profils LinkedIn, le chat conversationnel et l’analyse de documents en langage naturel.
 La plateforme intègre Google Gemini (chat, web search, RAG) et Exa AI (recherche personnes & entreprises), avec un backend FastAPI et un frontend React / Next.js.
