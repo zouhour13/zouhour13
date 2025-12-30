@@ -34,7 +34,13 @@ Here are a few of the projects I've worked on:
 This project focused on developing an **automatic defect detection system** for automotive components using **Computer Vision and AI**. Conducted in an industrial environment at **Valeo Enfidha**, the project followed the **CRISP-DM methodology** and applied advanced deep learning techniques using **YOLOv8-seg**.  
 - Two models were trained on annotated datasets via **Roboflow**: one for buttons, one for pictograms.  
 - An intuitive interface developed with **Flask** allows real-time visualization of predictions.  
-- This solution demonstrates the effectiveness of AI technologies for improving **quality control in industry** and opens the door for future system evolution. 
+- This solution demonstrates the effectiveness of AI technologies for improving **quality control in industry** and opens the door for future system evolution.
+
+
+** 🌐 Warm AI – Full-Stack AI Platform
+
+Développement d’une application Full-Stack AI permettant la recherche de profils LinkedIn, le chat conversationnel et l’analyse de documents en langage naturel.
+La plateforme intègre Google Gemini (chat, web search, RAG) et Exa AI (recherche personnes & entreprises), avec un backend FastAPI et un frontend React / Next.js.
 
 **🎵 Emotion Classification System**  
 A deep learning model for classifying emotions from audio files using CNN and LSTM.  
