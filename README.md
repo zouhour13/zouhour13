@@ -30,6 +30,23 @@ I enjoy working with a diverse range of technologies, including:
 ## 🌟 Projects
 Here are a few of the projects I've worked on:  
 
+
+**📊 MLflow MLOps Project (Work in Progress)**
+
+An end-to-end MLOps project focused on experiment tracking and model lifecycle management using MLflow. The project demonstrates the integration of Docker, AWS, and GitHub Actions to enable automated CI/CD pipelines and cloud deployment.
+
+Experiment tracking, parameter logging, and metric visualization with MLflow
+
+Integration with DagsHub for remote experiment tracking
+
+Containerization using Docker
+
+Deployment on AWS EC2
+
+Automated CI/CD workflows with GitHub Actions
+
+🚧 Currently under active development
+
 **💻 Final Year Project (PFE) – Automatic Defect Detection for Automotive Components**  
 This project focused on developing an **automatic defect detection system** for automotive components using **Computer Vision and AI**. Conducted in an industrial environment at **Valeo Enfidha**, the project followed the **CRISP-DM methodology** and applied advanced deep learning techniques using **YOLOv8-seg**.  
 - Two models were trained on annotated datasets via **Roboflow**: one for buttons, one for pictograms.  
