@@ -1,91 +1,167 @@
-# Hello, I'm Zouhour Bellamine, an AI & Software Engineer!  
-Welcome to my GitHub profile! 🎉  
+# Hi there, I'm Zouhour Bellamine 👋  
+### AI Engineer | Software Engineer | Building Intelligent & Scalable Solutions  
 
-![Hello GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px">
+</p>
 
+<p align="center">
+  <a href="mailto:zouhourbellamine13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge">
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a graduated engineer from the National School of Electronics and Telecommunications of Sfax (ENET'Com), passionate about Artificial Intelligence, Machine Learning, and software development.  
 
-🌟 **A little about me:**  
-- 🎓 Graduated in Engineering and Decision Systems.  
-- 💡 Continuously enhancing my skills through professional projects, internships, and personal endeavors.  
-- 🌍 Based in Monastir, Tunisia, and open to work globally.  
-- 🔍 Actively seeking opportunities in AI, Data Science, and Software Development.  
+I am a **graduated engineer from ENET'Com (National School of Electronics and Telecommunications of Sfax)** specializing in **Engineering & Decision Systems**.  
 
----
+Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**, I enjoy transforming ideas into real-world intelligent products.
 
-## 🛠️ Tech Stack
-I enjoy working with a diverse range of technologies, including:  
+✨ I love building systems that combine:
+- 🤖 AI + Automation  
+- 🌐 Modern Web Technologies  
+- 📊 Data-Driven Decision Making  
+- ☁️ Scalable Cloud Solutions  
 
-**Languages:** Python, Java, JavaScript, R, SQL .  
-**Frameworks & Tools:** TensorFlow, PyTorch, OpenCV, ReactJS ,Flask.
-**Databases:** MySQL, MongoDB   
-**Other Skills:** Machine Learning, Deep Learning, NLP, Git, Scrum, GitHub , Docker
+📍 Based in **Tunisia** | 🌍 Open to remote & international opportunities
 
 ---
 
-## 🌟 Projects
-Here are a few of the projects I've worked on:  
+## 🧠 Tech Stack
 
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat-square&logo=mysql)
+![R](https://img.shields.io/badge/R-blue?style=flat-square&logo=r)
 
-**📊 MLflow MLOps Project (Work in Progress)**
+### ⚙️ Frameworks & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=pytorch)
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
 
-An end-to-end MLOps project focused on experiment tracking and model lifecycle management using MLflow. The project demonstrates the integration of Docker, AWS, and GitHub Actions to enable automated CI/CD pipelines and cloud deployment.
-
-Experiment tracking, parameter logging, and metric visualization with MLflow
-
-Integration with DagsHub for remote experiment tracking
-
-Containerization using Docker
-
-Deployment on AWS EC2
-
-Automated CI/CD workflows with GitHub Actions
-
-🚧 Currently under active development
-
-**💻 Final Year Project (PFE) – Automatic Defect Detection for Automotive Components**  
-This project focused on developing an **automatic defect detection system** for automotive components using **Computer Vision and AI**. Conducted in an industrial environment at **Valeo Enfidha**, the project followed the **CRISP-DM methodology** and applied advanced deep learning techniques using **YOLOv8-seg**.  
-- Two models were trained on annotated datasets via **Roboflow**: one for buttons, one for pictograms.  
-- An intuitive interface developed with **Flask** allows real-time visualization of predictions.  
-- This solution demonstrates the effectiveness of AI technologies for improving **quality control in industry** and opens the door for future system evolution.
-
-
-**🌐 Warm AI – Full-Stack AI Platform**
-
-Development of a full-stack AI application enabling LinkedIn profile search, conversational chat, and natural language document analysis.
-The platform integrates Google Gemini (chat, web search, and RAG) and Exa AI (people and company search), with a FastAPI backend and a React / Next.js frontend.
-
-**🌐Text-to-SQL Platform for Data Analysts**
-
-A Text-to-SQL Streamlit application that enables natural language querying of a SQLite database using Groq’s Llama-3 large language model, providing fast and intuitive data access through an interactive UI.
-
-
-**🎵 Emotion Classification System**  
-A deep learning model for classifying emotions from audio files using CNN and LSTM.  
-
-**🎬 Video Colorization Project**  
-A project that automatically colorizes grayscale videos using AI techniques.  
-
-**📊 Olive Oil Demand Prediction**  
-A machine learning project predicting olive oil demand using Gradient Boosting and Extra Trees regressors.  
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb)
 
 ---
 
-## 🎯 Goals
-- 🚀 Continue growing as an AI & Software Engineer.  
-- 💡 Build impactful and user-friendly solutions.  
-- 🌐 Collaborate on open-source projects and innovative ideas.  
+## 🌟 Featured Projects
+
+## 🚘 Automatic Defect Detection for Automotive Components
+AI-powered quality inspection system developed during my Final Year Project at **Valeo Enfidha**.
+
+✔️ Computer Vision with **YOLOv8-seg**  
+✔️ Segmentation of buttons & pictograms  
+✔️ Flask-based prediction dashboard  
+✔️ Industrial quality control automation  
 
 ---
 
-## 📬 Let's Connect!
-Feel free to reach out for collaborations or discussions!  
+## 📊 MLflow MLOps Project *(In Progress)*
 
-Email: zouhourbellamine13@gmail.com  
-Phone: +216 29563299  
+End-to-end machine learning lifecycle platform.
 
-Thanks for visiting my profile! 🌟
+✔️ Experiment tracking with MLflow  
+✔️ DagsHub integration  
+✔️ Dockerized workflows  
+✔️ AWS EC2 deployment  
+✔️ GitHub Actions CI/CD  
+
+---
+
+## 🌐 Warm AI – Full Stack AI Platform
+
+Modern AI platform combining search + chat + document intelligence.
+
+✔️ Gemini AI integration  
+✔️ Exa AI people/company search  
+✔️ FastAPI backend  
+✔️ Next.js frontend  
+✔️ RAG system  
+
+---
+
+## 🧾 Text-to-SQL Platform
+
+Convert natural language into SQL queries instantly.
+
+✔️ Streamlit interface  
+✔️ SQLite database querying  
+✔️ Groq Llama-3 integration  
+✔️ Fast analytics workflow  
+
+---
+
+## 🎵 Emotion Recognition from Audio
+
+Deep Learning model using **CNN + LSTM** for speech emotion classification.
+
+---
+
+## 🎬 AI Video Colorization
+
+Automatic restoration and colorization of grayscale videos using AI.
+
+---
+
+## 📈 Olive Oil Demand Forecasting
+
+Machine learning forecasting solution using:
+
+✔️ Gradient Boosting Regressor  
+✔️ Extra Trees Regressor  
+✔️ Market demand prediction  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced MLOps & Deployment  
+- LLM Engineering  
+- AI Agents  
+- Cloud Architecture  
+- Scalable SaaS Systems  
+
+---
+
+## 🎯 Career Goals
+
+🚀 Build impactful AI products  
+🌍 Work with international teams  
+💡 Solve real-world problems using technology  
+📈 Grow into a Senior AI / Software Engineer role  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+</p>
+
+---
+
+## 📬 Let's Connect
+
+📧 **Email:** zouhourbellamine13@gmail.com  
+📱 **Phone:** +216 29563299  
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨  
+</p>
