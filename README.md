@@ -111,12 +111,6 @@ Deep Learning model using **CNN + LSTM** for speech emotion classification.
 
 ---
 
-## 🎬 AI Video Colorization
-
-Automatic restoration and colorization of grayscale videos using AI.
-
----
-
 ## 📈 Olive Oil Demand Forecasting
 
 Machine learning forecasting solution using:
