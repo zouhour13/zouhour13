@@ -70,17 +70,6 @@ AI-powered quality inspection system developed during my Final Year Project at *
 
 ---
 
-## 📊 MLflow MLOps Project *(In Progress)*
-
-End-to-end machine learning lifecycle platform.
-
-✔️ Experiment tracking with MLflow  
-✔️ DagsHub integration  
-✔️ Dockerized workflows  
-✔️ AWS EC2 deployment  
-✔️ GitHub Actions CI/CD  
-
----
 
 ## 🌐 Warm AI – Full Stack AI Platform
 
@@ -126,7 +115,6 @@ Machine learning forecasting solution using:
 - Advanced MLOps & Deployment  
 - LLM Engineering  
 - AI Agents  
-- Cloud Architecture  
 - Scalable SaaS Systems  
 
 ---
