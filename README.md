@@ -143,7 +143,6 @@ Machine learning forecasting solution using:
 
 
 ---
-
 <p align="center">
 ✨ Thanks for visiting my profile ✨  
 </p>
